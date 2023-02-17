@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 16 Feb 2023 12:00:00 +0000
+Source: google-traductor-qt4
+Binary: google-traductor-qt4
+Architecture: source all
+Version: 0.0.1-1
+Distribution: unstable
+Urgency: low
+Maintainer: HeroG <gusbonach@gmail.com>
+Changed-By: HeroG <gusbonach@gmail.com>
+Description:
+ google-traductor-qt4 - qt4 package for Traductor
+Changes:
+ google-traductor-qt4 (0.0.1-1) unstable; urgency=low
+ .
+   * Lanzamiento inicial
+Checksums-Sha1:
+ 7208f6df8d69b475400e8bdbabcfeaedeb125922 575 google-traductor-qt4_0.0.1-1.dsc
+ fdbb87813bdcfb908aea3639d15bf78720180033 808 google-traductor-qt4_0.0.1-1.tar.gz
+ e7799fe56ce959c193834aa65e701b91dc4a46f1 1312 google-traductor-qt4_0.0.1-1_all.deb
+ 088e95472218ce5254d78382481d35f2dbd1a06e 5355 google-traductor-qt4_0.0.1-1_amd64.buildinfo
+Checksums-Sha256:
+ 5228695335f87b98be681195d0b19bfbfc12330ea93691a936739e3656b5c533 575 google-traductor-qt4_0.0.1-1.dsc
+ 690bd41d693c8b60f763fab94005f58389047a82d91d51a2ff47e38aa1a20128 808 google-traductor-qt4_0.0.1-1.tar.gz
+ 8a94a3d6ea2ee2f2d62b81bdd231ca3168e95a3880d4390b14eba935882cec06 1312 google-traductor-qt4_0.0.1-1_all.deb
+ 10139c83e8477f9e16eeee96829f8f94458a718a6563f483f00b4c8f8c260d1d 5355 google-traductor-qt4_0.0.1-1_amd64.buildinfo
+Files:
+ 1e20e89f414ddb521c72b0bb8bbfbad3 575 contrib/web optional google-traductor-qt4_0.0.1-1.dsc
+ b437393339409eb34b51bac1e09942c2 808 contrib/web optional google-traductor-qt4_0.0.1-1.tar.gz
+ da9d1b4ccc7865d1326d8532c009bb2c 1312 contrib/web optional google-traductor-qt4_0.0.1-1_all.deb
+ 2e94bcd4d569071814e32c0c6382d9e0 5355 contrib/web optional google-traductor-qt4_0.0.1-1_amd64.buildinfo

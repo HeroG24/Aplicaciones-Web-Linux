@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 16 Feb 2023 12:00:00 +0000
+Source: google-traductor-qt5
+Binary: google-traductor-qt5
+Architecture: source all
+Version: 0.0.1-0ubuntu1
+Distribution: unstable
+Urgency: low
+Maintainer: HeroG <gusbonach@gmail.com>
+Changed-By: HeroG <gusbonach@gmail.com>
+Description:
+ google-traductor-qt5 - qt5 package for Traductor
+Changes:
+ google-traductor-qt5 (0.0.1-0ubuntu1) unstable; urgency=low
+ .
+   * Lanzamiento inicial
+Checksums-Sha1:
+ c9658a7991faf8fdf8bb18101d59d7ba036f0948 603 google-traductor-qt5_0.0.1-0ubuntu1.dsc
+ 3fcb393b198f1d758ac5047bbaa0649352219adf 809 google-traductor-qt5_0.0.1-0ubuntu1.tar.gz
+ 0c9f5a832870f10882fb1233ce01d4e24ff1de25 1320 google-traductor-qt5_0.0.1-0ubuntu1_all.deb
+ bd9cec00692a9a8b8bfce7d06a819cf133ff9ad7 5404 google-traductor-qt5_0.0.1-0ubuntu1_amd64.buildinfo
+Checksums-Sha256:
+ 45ab4cbfaa326c305440d8ef5c931ef3e4a39a6d8aefba87abe55b2e15d772d3 603 google-traductor-qt5_0.0.1-0ubuntu1.dsc
+ b158e79ba52eacd934e1c8cd9837cecb9e8bf78b2206f385135835475075fb92 809 google-traductor-qt5_0.0.1-0ubuntu1.tar.gz
+ cafd3ba385a86c32155423d1e76d0906487aefa193af3204418773c1d71a8dea 1320 google-traductor-qt5_0.0.1-0ubuntu1_all.deb
+ 2a8e87c0ca5da58528a7f772acccdbc8461b63688efeb99e1da20912269ae27e 5404 google-traductor-qt5_0.0.1-0ubuntu1_amd64.buildinfo
+Files:
+ 25fb85820d3f23a2a53032e1357b11f8 603 contrib/web optional google-traductor-qt5_0.0.1-0ubuntu1.dsc
+ d774aa4b427fac00d316e3c3022b557a 809 contrib/web optional google-traductor-qt5_0.0.1-0ubuntu1.tar.gz
+ 5703b2edbcbfe4d64e315f24a68677a8 1320 contrib/web optional google-traductor-qt5_0.0.1-0ubuntu1_all.deb
+ 3e85fbf3f1eff8896939ed84bf0f27f6 5404 contrib/web optional google-traductor-qt5_0.0.1-0ubuntu1_amd64.buildinfo

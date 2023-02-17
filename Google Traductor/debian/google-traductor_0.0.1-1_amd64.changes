@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Thu, 16 Feb 2023 12:00:00 +0000
+Source: google-traductor
+Binary: google-traductor
+Architecture: source all
+Version: 0.0.1-1
+Distribution: unstable
+Urgency: low
+Maintainer: HeroG <gusbonach@gmail.com>
+Changed-By: HeroG <gusbonach@gmail.com>
+Description:
+ google-traductor - Aplicacion Web - Google Traductor
+Changes:
+ google-traductor (0.0.1-1) unstable; urgency=low
+ .
+   * Lanzamiento inicial
+Checksums-Sha1:
+ fc849b41b7d754e64bd1172669698cbaab4f9978 984 google-traductor_0.0.1-1.dsc
+ 685eb4ae948127ed804a26f4f5568ce318451f48 90699 google-traductor_0.0.1.orig.tar.gz
+ 7ab68e157171a9638041d9e0be7808cc509d3c99 1262 google-traductor_0.0.1-1.diff.gz
+ 65c7186370ec74592f71642ac440024face01d53 71904 google-traductor_0.0.1-1_all.deb
+ 0f8a3eb605699b44e09215dad7fc6cee63dbca73 5495 google-traductor_0.0.1-1_amd64.buildinfo
+Checksums-Sha256:
+ 05ab0b99e5f0ca1e1f093ad6d925bf3a8a55ba97f158ae6a4b9f04d6236ad5c1 984 google-traductor_0.0.1-1.dsc
+ 98eea822bd3f2108c8b3510e9519013d3baef84c3cf268c27b1f0b2582a62b9d 90699 google-traductor_0.0.1.orig.tar.gz
+ 97c59eb2dc8cadada3e0aeb0d70c80b17aa42e693662fa04d0827aca6cd927e4 1262 google-traductor_0.0.1-1.diff.gz
+ 87fb8e87ba9cfd97b98b004182a8aa8eba5c4d5d3c1ae77a6fe756a8fb9bcb03 71904 google-traductor_0.0.1-1_all.deb
+ f802992e535dc50a88a2a89c796eab4945afcb4139cb863fe2b702143bf4ce9c 5495 google-traductor_0.0.1-1_amd64.buildinfo
+Files:
+ a9d42e3443725bf7636b41f8435fa1a8 984 contrib/web optional google-traductor_0.0.1-1.dsc
+ 5507b7814ae56218ab9895040292d547 90699 contrib/web optional google-traductor_0.0.1.orig.tar.gz
+ 274f4785a1c18a4c0c4102c492067c27 1262 contrib/web optional google-traductor_0.0.1-1.diff.gz
+ 0b999691f049742b3825b4c7f175ddcf 71904 contrib/web optional google-traductor_0.0.1-1_all.deb
+ f03f62c7ce4671a2e6503ca46573c882 5495 contrib/web optional google-traductor_0.0.1-1_amd64.buildinfo
